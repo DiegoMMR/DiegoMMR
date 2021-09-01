@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiegoMMR
 - 👀 I’m interested in web and video games development
-- 🌱 I’m currently learning NodeJs
+- 🌱 I’m currently learning NodeJs and React
 - 💞️ I’m looking to collaborate on anywhere
 
 <!---
